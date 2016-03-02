@@ -9,7 +9,7 @@ namespace GitTest
     {
         public static void Main()
         {
-            System.Console.WriteLine("Hi");
+            System.Console.WriteLine("Hello world");
             System.Console.ReadLine();
         }
     }
